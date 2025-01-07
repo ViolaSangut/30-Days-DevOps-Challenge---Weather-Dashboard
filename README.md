@@ -10,12 +10,12 @@ DAY 1: This project focuses on creating a python app that collects weather data 
 
 # Setting up the project
 1. Clone the repository using the following command.
-   **git clone https://github.com/ViolaSangut/30-Days-DevOps-Challenge---Weather-Dashboard.git**
+  # **git clone https://github.com/ViolaSangut/30-Days-DevOps-Challenge---Weather-Dashboard.git**
    
-2. Install the requirements using the following command.
-   **pip install -r requirements.txt**
+#2. Install the requirements using the following command.
+  # **pip install -r requirements.txt**
    
-3. Run the command  **AWS Configure**. You will be prompted to enter the your AWS access key , secret key and region.
+# 3. Run the command  **AWS Configure**. You will be prompted to enter the your AWS access key , secret key and region.
    
 4. Acquire the API keys for the OpenWeather API and AWS S3 and store them in the .env file as shown below.
     **WEATHER_APIKEY = your_weather-api
