@@ -1,0 +1,16 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore AWS CLI ZIP if unnecessary
+awscliv2.zip
+
+# Ignore AWS folder
+aws/
